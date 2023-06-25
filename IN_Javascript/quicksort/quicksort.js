@@ -12,4 +12,9 @@ function quicksort(arr) {
   }
 }
 
-console.log(quicksort([5, 2, 8, 3, 1])); // Imprime [1, 2, 3, 5, 8]
+console.log(quicksort([5, 2, 8, 3, 1]));
+
+caderno = dict()
+caderno["matheus"] = 1
+caderno["lucelia"] = 2
+print caderno
